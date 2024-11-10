@@ -1,4 +1,4 @@
-//A. Watermelon
+//Watermelon
 //if we divide watermalon in w parts check this parts is even or odd.
 import java.util.Scanner;
 public class cf3 {
